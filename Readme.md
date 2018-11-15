@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MapPieExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapPieExample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to customize a map pie appearance
 
 
